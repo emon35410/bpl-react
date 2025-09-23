@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Virat Kohli",
+        "image": "https://i.ibb.co.com/zpbRqSn/164-compress.jpg",
+        "countryFlag": "https://flagcdn.com/in.svg",
+        "country": "India",
+        "playingType": "Batter",
+        "rating": 9.5,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$2,000,000"
+    },
+    {
+        "name": "Babar Azam",
+        "image": "https://i.ibb.co.com/TqKm7d74/59429.webp",
+        "countryFlag": "https://flagcdn.com/pk.svg",
+        "country": "Pakistan",
+        "playingType": "Batter",
+        "rating": 9.3,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,800,000"
+    },
+    {
+        "name": "David Warner",
+        "image": "https://i.ibb.co.com/k68R99Br/Whats-App-Image-2024-07-24-at-14-38-38.jpg",
+        "countryFlag": "https://flagcdn.com/au.svg",
+        "country": "Australia",
+        "playingType": "Batter",
+        "rating": 8.9,
+        "strongHand": "Left-hand batter",
+        "buyingPrice": "$1,600,000"
+    },
+    {
+        "name": "Kane Williamson",
+        "image": "https://i.ibb.co.com/k2ch6wfM/4330.webp",
+        "countryFlag": "https://flagcdn.com/nz.svg",
+        "country": "New Zealand",
+        "playingType": "Batter",
+        "rating": 9.1,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,500,000"
+    },
+    {
+        "name": "Jos Buttler",
+        "image": "https://i.ibb.co.com/Pb8b2MP/p41ytvg12hc1m8efdwzo.jpg",
+        "countryFlag": "https://flagcdn.com/gb.svg",
+        "country": "England",
+        "playingType": "Keeper",
+        "rating": 9.0,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,700,000"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "image": "https://i.ibb.co.com/bYtwxH9/10085.webp",
+        "countryFlag": "https://flagcdn.com/au.svg",
+        "country": "Australia",
+        "playingType": "All-rounder",
+        "rating": 8.8,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,400,000"
+    },
+    {
+        "name": "Ben Stokes",
+        "image": "https://i.ibb.co.com/jkyR2cmg/734e929e5c7451dc6d4c13de5210848a.jpg",
+        "countryFlag": "https://flagcdn.com/gb.svg",
+        "country": "England",
+        "playingType": "All-rounder",
+        "rating": 9.2,
+        "strongHand": "Left-hand batter",
+        "buyingPrice": "$2,100,000"
+    },
+    {
+        "name": "Trent Boult",
+        "image": "https://i.ibb.co.com/tPxHfrYT/Trent-boult-Trent-boult-picture-Trent-boult.jpg",
+        "countryFlag": "https://flagcdn.com/nz.svg",
+        "country": "New Zealand",
+        "playingType": "Bowler",
+        "rating": 9.0,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,300,000"
+    },
+    {
+        "name": "Kagiso Rabada",
+        "image": "https://i.ibb.co.com/Zpm55Lxn/609aea13-d1e9-4509-8afd-6384a78cd93e.jpg",
+        "countryFlag": "https://flagcdn.com/za.svg",
+        "country": "South Africa",
+        "playingType": "Bowler",
+        "rating": 9.1,
+        "strongHand": "Left-hand batter",
+        "buyingPrice": "$1,600,000"
+    },
+    {
+        "name": "Andre Russell",
+        "image": "https://i.ibb.co.com/x8JndKC3/Cricket-Windies-Chief-Selector-Says-We-have.jpg",
+        "countryFlag": "https://flagcdn.com/jm.svg",
+        "country": "West Indies",
+        "playingType": "All-rounder",
+        "rating": 8.9,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,800,000"
+    },
+    {
+        "name": "Quinton de Kock",
+        "image": "https://i.ibb.co.com/kgLtzsjZ/Quinton-De-Kock.jpg",
+        "countryFlag": "https://flagcdn.com/za.svg",
+        "country": "South Africa",
+        "playingType": "Keeper",
+        "rating": 8.7,
+        "strongHand": "Left-hand batter",
+        "buyingPrice": "$1,200,000"
+    },
+    {
+        "name": "Steve Smith",
+        "image": "https://i.ibb.co.com/x8s5xgXW/The-poor-form-of-Steve-Smith-continued-but-with.jpg",
+        "countryFlag": "https://flagcdn.com/au.svg",
+        "country": "Australia",
+        "playingType": "Batter",
+        "rating": 9.2,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,800,000"
+    },
+    {
+        "name": "Mohammad Rizwan",
+        "image": "https://i.ibb.co.com/RT6SzXpv/d870fd66-7025-4f89-9c75-ddf7faf95022.jpg",
+        "countryFlag": "https://flagcdn.com/pk.svg",
+        "country": "Pakistan",
+        "playingType": "Keeper",
+        "rating": 8.9,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,400,000"
+    },
+    {
+        "name": "Shaheen Afridi",
+        "image": "https://i.ibb.co.com/FLdXLnBN/Shaheen-afridi-Shaheen-afridi-pic-Shaheen-afridi.jpg",
+        "countryFlag": "https://flagcdn.com/pk.svg",
+        "country": "Pakistan",
+        "playingType": "Bowler",
+        "rating": 8.9,
+        "strongHand": "Left-hand batter",
+        "buyingPrice": "$1,500,000"
+    },
+    {
+        "name": "Mushfiqur Rahim",
+        "image": "https://i.ibb.co.com/nqBr2k8R/39f59a75-5d95-4c04-83c3-5dbb341f900a.jpg",
+        "countryFlag": "https://flagcdn.com/bd.svg",
+        "country": "Bangladesh",
+        "playingType": "Keeper",
+        "rating": 8.6,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,000,000"
+    },
+    {
+        "name": "Litton Das",
+        "image": "http://i.ibb.co.com/rR0JvSb8/321ccfee-2172-4b57-8ffc-e294ce175125.jpg",
+        "countryFlag": "https://flagcdn.com/bd.svg",
+        "country": "Bangladesh",
+        "playingType": "Batter",
+        "rating": 8.4,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$900,000"
+    },
+    {
+        "name": "Mustafizur Rahman",
+        "image": "https://i.ibb.co.com/zhZrF50V/Bangladesh-Cricketer.jpg",
+        "countryFlag": "https://flagcdn.com/bd.svg",
+        "country": "Bangladesh",
+        "playingType": "Bowler",
+        "rating": 8.7,
+        "strongHand": "Left-hand batter",
+        "buyingPrice": "$1,200,000"
+    },
+    {
+        "name": "Taskin Ahmed",
+        "image": "https://i.ibb.co.com/8gS8kkRd/Taskin-Ahmed-Taskin-ahmed-pic-Taskin-ahmed-age.jpg",
+        "countryFlag": "https://flagcdn.com/bd.svg",
+        "country": "Bangladesh",
+        "playingType": "Bowler",
+        "rating": 8.5,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$850,000"
+    },
+    {
+        "name": "Mitchell Starc",
+        "image": "https://i.ibb.co.com/1YCSw6ss/8969fc13-45ba-4a21-a854-35c515398cb2.jpg",
+        "countryFlag": "https://flagcdn.com/au.svg",
+        "country": "Australia",
+        "playingType": "Bowler",
+        "rating": 9.1,
+        "strongHand": "Left-arm fast bowler",
+        "buyingPrice": "$1,900,000"
+    },
+    {
+        "name": "Pat Cummins",
+        "image": "https://i.ibb.co.com/ns9sS4j5/0a18dc44-3f2f-49e8-94eb-89b0942ff7d5.jpg",
+        "countryFlag": "https://flagcdn.com/au.svg",
+        "country": "Australia",
+        "playingType": "Bowler",
+        "rating": 9.0,
+        "strongHand": "Right-arm fast bowler",
+        "buyingPrice": "$2,200,000"
+    },
+    {
+        "name": "Jason Roy",
+        "image": "https://i.ibb.co.com/xdn99bg/353f642c-efdf-4169-8db8-5aa3372a6e05.jpg",
+        "countryFlag": "https://flagcdn.com/gb.svg",
+        "country": "England",
+        "playingType": "Batter",
+        "rating": 8.3,
+        "strongHand": "Right-hand batter",
+        "buyingPrice": "$1,100,000"
+    }
+]

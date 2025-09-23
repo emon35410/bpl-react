@@ -1,33 +1,44 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import navImg from './assets/logo.png'
+import dollarImg from './assets/dollar.png'
+import AvailavalePlayers from './component/AvailavlePlayers/AvailavalePlayers'
+import SelectedPlayers from './component/SelectedPlayers/SelectedPlayers'
+import { Suspense } from 'react'
 
+
+const fechPlayers = async () => {
+  const res = await fetch('/players.json')
+  return res.json();
+}
 function App() {
-  const [count, setCount] = useState(0)
+  const playerPromise = fechPlayers()
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <div className="navbar max-w-[1200px] mx-auto pt-3 text-center">
+        <div className="flex-1">
+          <img src={navImg} alt="NavImg" />
+        </div>
+        <div className="flex gap-2 items-center">
+          <span>6000000</span>
+          <span>Coin</span>
+          <img src={dollarImg} alt="DollarImg" />
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+      <div className='max-w-[1200px] mx-auto flex justify-between items-center'>
+        <h1 className=''>Availavale Players</h1>
+        <div>
+          <button className='btn'>Available</button>
+            <button className='btn'>Selected (0)</button>
+        </div>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+
+
+      <Suspense fallback={<span className="loading loading-spinner text-info"></span>}>
+        <AvailavalePlayers playerPromise={playerPromise}></AvailavalePlayers>
+      </Suspense>
+      <SelectedPlayers></SelectedPlayers>
+
     </>
   )
 }
