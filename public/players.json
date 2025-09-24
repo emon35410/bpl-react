@@ -186,7 +186,7 @@
         "country": "Australia",
         "playingType": "Bowler",
         "rating": 9.1,
-        "strongHand": "Left-arm fast bowler",
+        "strongHand": "Left-hand batter",
         "buyingPrice": "$1,900,000"
     },
     {
@@ -196,7 +196,7 @@
         "country": "Australia",
         "playingType": "Bowler",
         "rating": 9.0,
-        "strongHand": "Right-arm fast bowler",
+        "strongHand": "Right-hand batter",
         "buyingPrice": "$2,200,000"
     },
     {

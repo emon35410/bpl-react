@@ -1,14 +1,18 @@
 import React from 'react';
+import SelectedCard from '../SelectedCard/SelectedCard';
 
-const SelectedPlayers = ({selectedPlayers}) => {
-    console.log(selectedPlayers)
+
+const SelectedPlayers = ({ selectedPlayers,removePlyer }) => {
+
     return (
-        <div className='max-w-[1200px] mx-auto'>
-            <button>
-                Selected
-            </button>
+        <div>
+            {
+                selectedPlayers.map((player,index) => <SelectedCard key={index} removePlyer={removePlyer} player={player}></SelectedCard>)
+            }
         </div>
+
     );
+
 };
 
 export default SelectedPlayers;
