@@ -1,9 +1,12 @@
 import React from 'react';
 
-const SelectedPlayers = () => {
+const SelectedPlayers = ({selectedPlayers}) => {
+    console.log(selectedPlayers)
     return (
-        <div>
-            
+        <div className='max-w-[1200px] mx-auto'>
+            <button>
+                Selected
+            </button>
         </div>
     );
 };
